@@ -5,8 +5,8 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "course.example.helloandroid"
-        minSdkVersion 19
+        applicationId "course.example.hellodroid"
+        minSdkVersion 15
         targetSdkVersion 22
         versionCode 1
         versionName "1.0"
