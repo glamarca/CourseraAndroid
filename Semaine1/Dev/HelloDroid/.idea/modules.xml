@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HelloDroid.iml" filepath="$PROJECT_DIR$/HelloDroid.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file:///media/Info/Android/Coursera - Programming Mobile Applications for Android Handheld Systems (Part 1)/Semaine1/Dev/HelloDroid/HelloDroid.iml" filepath="/media/Info/Android/Coursera - Programming Mobile Applications for Android Handheld Systems (Part 1)/Semaine1/Dev/HelloDroid/HelloDroid.iml" />
+      <module fileurl="file:///media/Info/Android/Coursera - Programming Mobile Applications for Android Handheld Systems (Part 1)/Semaine1/Dev/HelloDroid/app/app.iml" filepath="/media/Info/Android/Coursera - Programming Mobile Applications for Android Handheld Systems (Part 1)/Semaine1/Dev/HelloDroid/app/app.iml" />
     </modules>
   </component>
 </project>
