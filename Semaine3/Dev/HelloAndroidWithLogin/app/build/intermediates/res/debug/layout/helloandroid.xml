@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+<TextView
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="40dp"
+    android:text="@string/hello"
+    android:textSize="40sp" />
+
+</LinearLayout>
+<!-- From: file:/media/Info/Android/Coursera%20-%20Programming%20Mobile%20Applications%20for%20Android%20Handheld%20Systems%20(Part%201)/Semaine3/Dev/HelloAndroidWithLogin/app/src/main/res/layout/helloandroid.xml -->
